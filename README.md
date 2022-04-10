@@ -1,8 +1,8 @@
 # Welcome on my GitHub 👋🏻
 My name is **Adriano Teixeira**.
 <br>
-I'm a developer doing front-end and back-end.
-I prefer the back-end rather than the front-end.
+- I'm a developer doing front-end and back-end.
+- I prefer the back-end rather than the front-end.
 
 <h2>Current project(s)</h2>
 Currently, I am creating a project of a hosting service for all types of game servers in collaboration with <a href="https://github.com/WIZOX">Wizox</a>.
