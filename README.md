@@ -5,7 +5,8 @@ My name is **Adriano Teixeira**.
 - I prefer the back-end rather than the front-end.
 
 <h2>Current project(s)</h2>
-Currently, I am creating a project of a hosting service for all types of game servers in collaboration with <a href="https://github.com/WIZOX">Wizox</a>.
+Currently, I am creating a project of a hosting service for all types of game servers.
+I'm doing too a lot of websites :).
 
 <h2>Languages & Tools</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
