@@ -5,7 +5,7 @@ I'm **Adriano Teixeira**.
 - I have a preference for working on the back-end rather than the front-end.
 
 ## Current Project(s)
-Presently, I'm involved in several projects, including the development of two GTA RP servers on FiveM ![Back To Basic RP](https://discord.gg/Nm2b2y9QUe) ![Acerschool](https://discord.gg/APPTvFFaYh). Additionally, I'm actively working on creating a Discord bot. Furthermore, I'm engaged in the project for hosting various types of game servers, along with contributing to multiple website developments :).
+Presently, I'm involved in several projects, including the development of two GTA RP servers on FiveM [Back To Basic RP](https://discord.gg/Nm2b2y9QUe) [Acerschool](https://discord.gg/APPTvFFaYh). Additionally, I'm actively working on creating a Discord bot [Valiente](https://discord.gg/V6fR2RKgU4). Furthermore, I'm engaged in the project for hosting various types of game servers [Wavescloud](https://discord.gg/92G2CC8CWb), along with contributing to multiple website developments :).
 
 ## Languages & Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
